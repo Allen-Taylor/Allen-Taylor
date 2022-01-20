@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Allen-Taylor
-- 👀 I’m interested in learning new things. 
-- 🌱 I’m currently learning Computer Science through UMGC. 
-- 💞️ I’m looking to collaborate on ... nothing. 
-- 📫 How to reach me: allenandersontaylor@gmail.com
+Computer Science Student w/ Univeristy of Maryland Global Campus (UMGC)
+
+contact: allenandersontaylor@gmail.com
 
 <!---
 Allen-Taylor/Allen-Taylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
