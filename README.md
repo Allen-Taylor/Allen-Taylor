@@ -1,4 +1,4 @@
-Computer Science Student w/ Univeristy of Maryland Global Campus (UMGC)
+Computer Science Student w/ University of Maryland Global Campus (UMGC)
 
 contact: allenandersontaylor@gmail.com
 
