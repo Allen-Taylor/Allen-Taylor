@@ -1,6 +1,4 @@
-Computer Science Student w/ University of Maryland Global Campus (UMGC)
-
-contact: allenandersontaylor@gmail.com
+part time programmer
 
 <!---
 Allen-Taylor/Allen-Taylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
